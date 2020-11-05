@@ -1,0 +1,8 @@
+{
+	"dev" : {
+		"url" : "http://admin:admin@localhost:15478"
+	},
+	"staging" : {
+		"url" : "http://admin:admin@192.168.1.3:15478"
+	}
+}
